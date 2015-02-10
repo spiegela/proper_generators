@@ -1,3 +1,7 @@
+-module(proplist_generators).
+
+-compile(export_all).
+
 %%% Generators
 
 %% @doc
